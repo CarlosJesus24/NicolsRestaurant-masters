@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "178496403902",
+    "firebase_url": "https://nicolsrestaurant.firebaseio.com",
+    "project_id": "nicolsrestaurant",
+    "storage_bucket": "nicolsrestaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178496403902:android:8a200cf879798c3f",
+        "android_client_info": {
+          "package_name": "com.example.kenedi.nicolsrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178496403902-edmujdhnnkjq2em06eli53jjnrve2ieh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kenedi.nicolsrestaurant",
+            "certificate_hash": "ef35756e1a0dfaa95bf80106c03d2e249537a26f"
+          }
+        },
+        {
+          "client_id": "178496403902-cihrtm8smc87ouf23sq2nut25rfe8uag.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "178496403902-cihrtm8smc87ouf23sq2nut25rfe8uag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuV4r-UzN8lH-7U87em9zDs4v9-hhSAKw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178496403902-cihrtm8smc87ouf23sq2nut25rfe8uag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
